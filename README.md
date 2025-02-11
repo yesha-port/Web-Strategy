@@ -6,7 +6,10 @@ This repository contains the shopify website with a little bit of custom coding 
 
 Check out the final website and see how the project turned out:
 
-[Watch the Website Demo](https://www.youtube.com/watch?v=jKm9Ij0mft8)
+[Watch the Website Demo](https://www.youtube.com/watch?v=jKm9Ij0mft8)👇
+
+[![Untitled design](https://github.com/user-attachments/assets/e5118121-141c-458c-b421-be215f19ef92)]([https://your-link-here.com](https://www.youtube.com/watch?v=jKm9Ij0mft8))
+
 
 - **Key Features**:
   - **Pick and Mix Functionality**: Customers can create their personalized candy mixes with few restrictions on weights and number of choices in a mix.
