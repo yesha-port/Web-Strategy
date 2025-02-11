@@ -2,10 +2,12 @@
 
 This repository contains the shopify website with a little bit of custom coding featuring a unique "pick and mix" functionality for candies. Client gave the logo and products weight, contents, suppiers as a brief. The project was initiated with minimal assets and involved creating high-quality product images, designing a user-friendly experience, and ensuring robust functionality for an engaging online store. This was a solo freelancing project with no team involvement. 
 
-## Project Overview
+## Product Showcase
 
-- **Client**: Wicked and Sweet
-- **Website Type**: Custom E-commerce
+Check out the final website and see how the project turned out:
+
+[Watch the Website Demo](https://www.youtube.com/watch?v=jKm9Ij0mft8)
+
 - **Key Features**:
   - **Pick and Mix Functionality**: Customers can create their personalized candy mixes with few restrictions on weights and number of choices in a mix.
   - **Custom Product Images**: High-quality, creative product images were designed and integrated.
@@ -37,12 +39,5 @@ For a deeper look at the deliverables and client correspondence, visit the follo
 - [Keyword Research Document](https://github.com/yesha-port/Web-Strategy/blob/main/Wicked%20and%20Sweet%20-%20Strategy.xlsx)
 - [Information Architecture & Sitemap](https://github.com/yesha-port/Web-Strategy/blob/main/Wicked%20and%20Sweet%20-%20Strategy.xlsx)
 
-## Final Product Showcase
 
-Check out the final website and see how the project turned out:
 
-[Watch the Website Demo](https://www.youtube.com/watch?v=jKm9Ij0mft8)
-
-Here's an embedded preview of the demo video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jKm9Ij0mft8?si=AmGgMddp-0ieC4NG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
