@@ -8,6 +8,8 @@ Check out the final website and see how the project turned out:
 
 [Watch the Website Demo](https://www.youtube.com/watch?v=jKm9Ij0mft8)
 
+![Wicked and Sweet Product Mockups](https://github.com/user-attachments/assets/ffbcc4eb-e4a2-423d-92b6-f29f71cb1450 =300x300)
+
 - **Key Features**:
   - **Pick and Mix Functionality**: Customers can create their personalized candy mixes with few restrictions on weights and number of choices in a mix.
   - **Custom Product Images**: High-quality, creative product images were designed and integrated.
